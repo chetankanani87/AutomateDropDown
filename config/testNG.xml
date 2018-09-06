@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="dropDown">
+	<test name="Drop Down">
+		<classes>
+			<class name="dropDown.SelectFaceBookDropDown"/>
+		</classes>
+	</test>
+</suite>
